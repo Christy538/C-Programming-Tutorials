@@ -8,7 +8,7 @@ int main()
   double av;
   printf("Enter your Name:\n",name);
   scanf("%s",&name);
-  printf("Maths Mark:\n",mark1);
+  printf("Maths Mark :\n",mark1);
   scanf("%lf",&mark1);
   printf("Chemistry Mark:\n",mark2);
   scanf("%lf",&mark2);
